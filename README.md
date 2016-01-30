@@ -40,6 +40,6 @@ example: OpenMeshParamaterization.exe moser.off output.off 1 1
 
 Screenshots:
 
-![image](https://github.com/duoshengyu/MeshParamaterization/blob/master/screenshots/1.png)
+![image](https://github.com/duoshengyu/MeshParamaterization/blob/master/screenshots/1.PNG)
 
-![image](https://github.com/duoshengyu/MeshParamaterization/blob/master/screenshots/2.png)
+![image](https://github.com/duoshengyu/MeshParamaterization/blob/master/screenshots/2.PNG)
