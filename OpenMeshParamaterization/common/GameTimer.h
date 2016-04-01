@@ -1,3 +1,7 @@
+//***************************************************************************************
+// GameTimer.h by Frank Luna (C) 2011 All Rights Reserved.
+//***************************************************************************************
+
 #ifndef GAMETIMER_H
 #define GAMETIMER_H
 
@@ -14,7 +18,6 @@ public:
 	void Stop();  // Call when paused.
 	void Tick();  // Call every frame.
 
-	float getCurrenTime() { return mCurrTime * mSecondsPerCount; };
 private:
 	double mSecondsPerCount;
 	double mDeltaTime;
