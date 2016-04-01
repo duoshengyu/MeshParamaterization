@@ -1,3 +1,11 @@
 *.tlog
 *.pdb
 *.filters
+*.obj
+*.exe
+*.log
+*.sdf
+OpenGL.opensdf
+*.idb
+OpenMeshParamaterization/debug.txt
+*.txt
