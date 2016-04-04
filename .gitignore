@@ -1,6 +1,1 @@
-*.tlog
-*.pdb
-*.filters
-*.obj
-*.log
-*.idb
+*.sdf
